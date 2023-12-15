@@ -1,3 +1,10 @@
+# My PTA files and other temp analysis dirs
+pta_log.txt
+_V1-data/
+_stairwayplot/
+analysis/
+vcfs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
